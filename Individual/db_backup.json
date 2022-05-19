@@ -1,0 +1,17 @@
+[
+    {
+        "flight_destination": "Miami",
+        "flight_number": "MI123",
+        "airplane_type": "Passenger"
+    },
+    {
+        "flight_destination": "Toronto",
+        "flight_number": "TR189",
+        "airplane_type": "Sanitary"
+    },
+    {
+        "flight_destination": "Sydney",
+        "flight_number": "SY183",
+        "airplane_type": "Military"
+    }
+]
